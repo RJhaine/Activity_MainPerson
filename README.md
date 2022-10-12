@@ -1,1 +1,1 @@
-# Activity_MainPerson
+# JavaActivity
